@@ -1,2 +1,1 @@
-let a = "toi la string - chuoi";
-console.log(a);
+console.log(`hello world`);
