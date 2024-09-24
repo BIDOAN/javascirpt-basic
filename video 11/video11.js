@@ -1,4 +1,6 @@
 console.log("hello world");
-for (let i = 0; i < 10; i++) {
-  console.log("i =", i);
+let arr = ["Mu", "mc", "liv", "chel"];
+for (let i = 0; i < arr.length; i++) {
+  console.log("i =", arr[i]);
 }
+console.log()
